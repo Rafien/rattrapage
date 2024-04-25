@@ -7,8 +7,11 @@ npm start
 
 install server :
 
-create db
+create postgres db
 set db in .env file
 cd my-project
 npm i
 node server.js
+
+
+Register + Login in db
